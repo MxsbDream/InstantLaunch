@@ -2,5 +2,4 @@ services:
   - type: web
     name: InstantLaunch
     env: static
-    buildCommand: echo "Static site"
     staticPublishPath: ./
