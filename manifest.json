@@ -1,21 +1,21 @@
 {
   "name": "InstantLaunch",
-  "short_name": "InstantLaunch",
-  "start_url": "/?source=instantlaunch",
+  "short_name": "IL Store",
+  "description": "Lancez vos applications favorites instantanément grâce à InstantLaunch.",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#071035",
-  "theme_color": "#1f2937",
+  "background_color": "#ffffff",
+  "theme_color": "#0044cc",
   "icons": [
     {
-      "src": "/icons/icon-192.png",
+      "src": "icons/pwaicon.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon-512.png",
+      "src": "icons/pwaicon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
-}
- 
+} 
